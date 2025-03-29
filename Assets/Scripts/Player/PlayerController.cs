@@ -6,10 +6,12 @@ public class PlayerController : MonoBehaviour
 {
     [Header("References")]
     private Rigidbody2D rb2d;
+    private TouchingDirections touchingDirections;
 
     [Header("Attributes")]
     [SerializeField] private float baseMovementSpeed = 2f;
     [SerializeField] private float sprintMultiplier = 1.5f;
+    [SerializeField] private float jumpForce = 5f;
 
 
     public bool IsMoving { get; set;}
@@ -21,6 +23,7 @@ public class PlayerController : MonoBehaviour
     private void Awake()
     {
         rb2d = GetComponent<Rigidbody2D>();
+        touchingDirections = GetComponent<TouchingDirections>();
     }
 
     private void Start()
@@ -39,7 +42,7 @@ public class PlayerController : MonoBehaviour
         // Movement Logic
         float movementSpeed = baseMovementSpeed;
         if(IsSprinting) movementSpeed *= sprintMultiplier;
-        rb2d.linearVelocity = new(movementInput.x * movementSpeed, 0);
+        rb2d.linearVelocity = new(movementInput.x * movementSpeed, rb2d.linearVelocity.y);
 
 
         CheckDirection();
@@ -63,5 +66,14 @@ public class PlayerController : MonoBehaviour
     public void OnSprint(InputAction.CallbackContext context)
     {
         IsSprinting = context.ReadValueAsButton();
+    }
+
+    public void OnJump(InputAction.CallbackContext context)
+    {
+        if(context.started && touchingDirections.IsGrounded)
+        {
+            rb2d.linearVelocity += new Vector2(rb2d.linearVelocity.x, jumpForce);
+        }
+        
     }
 }

@@ -16,6 +16,6 @@ public class WolfAnimator : MonoBehaviour
     private void Update() 
     {
         spriteRenderer.flipX = wolfController.IsFacingLeft;
-        animator.SetBool(StringManager.isMoving, !wolfController.IsMoving);
+        animator.SetBool(StringManager.isMoving, wolfController.IsMoving);
     }
 }
