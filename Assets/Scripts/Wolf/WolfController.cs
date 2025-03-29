@@ -1,8 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[RequireComponent(typeof(Rigidbody2D))]
-public class PlayerController : MonoBehaviour
+public class WolfController : MonoBehaviour
 {
     [Header("References")]
     private Rigidbody2D rb2d;
@@ -14,7 +13,7 @@ public class PlayerController : MonoBehaviour
 
     public bool IsMoving { get; set;}
     public bool IsSprinting { get; set;}
-    public bool IsFacingRight { get; set; }
+    public bool IsFacingLeft { get; set; }
 
     Vector2 movementInput;
 
@@ -26,7 +25,7 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         // I`m Setting Default to Facing Right
-        IsFacingRight = true;   
+        IsFacingLeft = false;   
     }
 
     private void Update()
@@ -47,17 +46,17 @@ public class PlayerController : MonoBehaviour
 
     private void CheckDirection()
     {
-        if(IsFacingRight && movementInput.x < 0) IsFacingRight = !IsFacingRight;
-        else if (!IsFacingRight && movementInput.x > 0) IsFacingRight = !IsFacingRight;    
-        // Debug.Log(IsFacingRight);
+        if(IsFacingLeft && movementInput.x < 0) IsFacingLeft = !IsFacingLeft;
+        else if (!IsFacingLeft && movementInput.x > 0) IsFacingLeft = !IsFacingLeft;    
+        // Debug.Log(IsFacingLeft);
     }
     
     public void OnMove(InputAction.CallbackContext context)
     {
         movementInput = context.ReadValue<Vector2>();
-        // Debug.Log(movementInput.x);
+        Debug.Log(movementInput.x);
 
-        IsMoving =  movementInput != Vector2.zero;
+        IsMoving =  !(movementInput != Vector2.zero);
     }
 
     public void OnSprint(InputAction.CallbackContext context)

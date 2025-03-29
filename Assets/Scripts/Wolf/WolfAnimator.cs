@@ -1,9 +1,9 @@
 using UnityEngine;
 
-public class PlayerAnimator : MonoBehaviour
+public class WolfAnimator : MonoBehaviour
 {
     [Header("Referencess")]
-    [SerializeField] PlayerController playerController;
+    [SerializeField] WolfController wolfController;
     private SpriteRenderer spriteRenderer;
     private Animator animator;
 
@@ -15,7 +15,7 @@ public class PlayerAnimator : MonoBehaviour
 
     private void Update() 
     {
-        spriteRenderer.flipX = !playerController.IsFacingRight;
-        animator.SetBool(StringManager.isMoving, playerController.IsMoving);
+        spriteRenderer.flipX = wolfController.IsFacingLeft;
+        animator.SetBool(StringManager.isMoving, !wolfController.IsMoving);
     }
 }
