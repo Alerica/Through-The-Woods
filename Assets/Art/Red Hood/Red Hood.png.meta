@@ -1,0 +1,3445 @@
+fileFormatVersion: 2
+guid: f97cd17090c731641beee24bce180969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6432122702029699100
+    second: Red Hood_0
+  - first:
+      213: -809702945999793575
+    second: Red Hood_1
+  - first:
+      213: -782994682852954801
+    second: Red Hood_2
+  - first:
+      213: 202068952829890606
+    second: Red Hood_3
+  - first:
+      213: 3928647497836354558
+    second: Red Hood_4
+  - first:
+      213: -8346001391051188934
+    second: Red Hood_5
+  - first:
+      213: 5292025118798428878
+    second: Red Hood_6
+  - first:
+      213: -2901103458059203676
+    second: Red Hood_7
+  - first:
+      213: 5301595306197642573
+    second: Red Hood_8
+  - first:
+      213: 1754272424861852375
+    second: Red Hood_9
+  - first:
+      213: 1717138381269626576
+    second: Red Hood_10
+  - first:
+      213: -4053931801556725902
+    second: Red Hood_11
+  - first:
+      213: -855344168919421850
+    second: Red Hood_12
+  - first:
+      213: 3963329091629575276
+    second: Red Hood_13
+  - first:
+      213: 5502771085201880354
+    second: Red Hood_14
+  - first:
+      213: 5866495796167983715
+    second: Red Hood_15
+  - first:
+      213: 7306024118559598552
+    second: Red Hood_16
+  - first:
+      213: 1182372580489641581
+    second: Red Hood_17
+  - first:
+      213: -3914945891055092728
+    second: Red Hood_18
+  - first:
+      213: -537645712208995900
+    second: Red Hood_19
+  - first:
+      213: 2188486470415112336
+    second: Red Hood_20
+  - first:
+      213: -9206058844437517067
+    second: Red Hood_21
+  - first:
+      213: -7565099582807541125
+    second: Red Hood_22
+  - first:
+      213: -8672202882886861326
+    second: Red Hood_23
+  - first:
+      213: 5680210665275891157
+    second: Red Hood_24
+  - first:
+      213: 1587363106246796322
+    second: Red Hood_25
+  - first:
+      213: -6934021462025029007
+    second: Red Hood_26
+  - first:
+      213: 6597587384967655166
+    second: Red Hood_27
+  - first:
+      213: -2814674029947688202
+    second: Red Hood_28
+  - first:
+      213: 1061831646924859650
+    second: Red Hood_29
+  - first:
+      213: 3228581638903981039
+    second: Red Hood_30
+  - first:
+      213: -2281773893494146239
+    second: Red Hood_31
+  - first:
+      213: -5267393479253527589
+    second: Red Hood_32
+  - first:
+      213: 6093913205898443546
+    second: Red Hood_33
+  - first:
+      213: 7691718899324481959
+    second: Red Hood_34
+  - first:
+      213: 8691395163971000332
+    second: Red Hood_35
+  - first:
+      213: 2906853534217522675
+    second: Red Hood_36
+  - first:
+      213: -6966970341195729520
+    second: Red Hood_37
+  - first:
+      213: -3673393289779189621
+    second: Red Hood_38
+  - first:
+      213: -6581766326838070934
+    second: Red Hood_39
+  - first:
+      213: -383441109020745504
+    second: Red Hood_40
+  - first:
+      213: 6406080404750100822
+    second: Red Hood_41
+  - first:
+      213: 2363223785243526212
+    second: Red Hood_42
+  - first:
+      213: 1207592654581848348
+    second: Red Hood_43
+  - first:
+      213: -3017205570483153305
+    second: Red Hood_44
+  - first:
+      213: 6154380397879194464
+    second: Red Hood_45
+  - first:
+      213: -1951484249034426582
+    second: Red Hood_46
+  - first:
+      213: -3221099421049667229
+    second: Red Hood_47
+  - first:
+      213: -8075022462227514784
+    second: Red Hood_48
+  - first:
+      213: -4056257181966072512
+    second: Red Hood_49
+  - first:
+      213: -1698781992448418345
+    second: Red Hood_50
+  - first:
+      213: -9062521283509391824
+    second: Red Hood_51
+  - first:
+      213: 1220864511979486835
+    second: Red Hood_52
+  - first:
+      213: 7403641292159073161
+    second: Red Hood_53
+  - first:
+      213: 4439415478557868510
+    second: Red Hood_54
+  - first:
+      213: -2478014514845366718
+    second: Red Hood_55
+  - first:
+      213: 6480236606477687575
+    second: Red Hood_56
+  - first:
+      213: 4077664897324221666
+    second: Red Hood_57
+  - first:
+      213: 7471352539660672349
+    second: Red Hood_58
+  - first:
+      213: 6664309819025560319
+    second: Red Hood_59
+  - first:
+      213: -3800415667103082804
+    second: Red Hood_60
+  - first:
+      213: 6653611919367139083
+    second: Red Hood_61
+  - first:
+      213: -8795115901346427168
+    second: Red Hood_62
+  - first:
+      213: 565229788295417261
+    second: Red Hood_63
+  - first:
+      213: 9071076515287297208
+    second: Red Hood_64
+  - first:
+      213: -7103244923549327344
+    second: Red Hood_65
+  - first:
+      213: -3110660807877899295
+    second: Red Hood_66
+  - first:
+      213: 1413556955753726438
+    second: Red Hood_67
+  - first:
+      213: 7701863195373205407
+    second: Red Hood_68
+  - first:
+      213: 3378092800016484709
+    second: Red Hood_69
+  - first:
+      213: -8467834885219518569
+    second: Red Hood_70
+  - first:
+      213: 8952781116848939084
+    second: Red Hood_71
+  - first:
+      213: 7924695426276515312
+    second: Red Hood_72
+  - first:
+      213: -1935049028348319373
+    second: Red Hood_73
+  - first:
+      213: 1675005489376965091
+    second: Red Hood_74
+  - first:
+      213: -322251435686495454
+    second: Red Hood_75
+  - first:
+      213: 8321232846135974252
+    second: Red Hood_76
+  - first:
+      213: -4546200883623940022
+    second: Red Hood_77
+  - first:
+      213: 5463871964239622647
+    second: Red Hood_78
+  - first:
+      213: -1282590383569868656
+    second: Red Hood_79
+  - first:
+      213: 6881210045183150967
+    second: Red Hood_80
+  - first:
+      213: 1530537575966625089
+    second: Red Hood_81
+  - first:
+      213: 633883372136047906
+    second: Red Hood_82
+  - first:
+      213: 251874363797734134
+    second: Red Hood_83
+  - first:
+      213: 5005004947516222070
+    second: Red Hood_84
+  - first:
+      213: -3489166221897017294
+    second: Red Hood_85
+  - first:
+      213: -2576095331824246440
+    second: Red Hood_86
+  - first:
+      213: -3695055066527124710
+    second: Red Hood_87
+  - first:
+      213: 3460973698415148045
+    second: Red Hood_88
+  - first:
+      213: -5879946134359525685
+    second: Red Hood_89
+  - first:
+      213: 5480544780857758051
+    second: Red Hood_90
+  - first:
+      213: 969047524609073969
+    second: Red Hood_91
+  - first:
+      213: -1732426872745965089
+    second: Red Hood_92
+  - first:
+      213: -1023676087740549034
+    second: Red Hood_93
+  - first:
+      213: 8097311301642020346
+    second: Red Hood_94
+  - first:
+      213: 9209830659660136097
+    second: Red Hood_95
+  - first:
+      213: -5968053365621288917
+    second: Red Hood_96
+  - first:
+      213: -5345062954187433985
+    second: Red Hood_97
+  - first:
+      213: 906684520954574861
+    second: Red Hood_98
+  - first:
+      213: 1817679716947706231
+    second: Red Hood_99
+  - first:
+      213: -1186073080476363553
+    second: Red Hood_100
+  - first:
+      213: -2702374746775641152
+    second: Red Hood_101
+  - first:
+      213: -9191119642270178002
+    second: Red Hood_102
+  - first:
+      213: 7846056746597360709
+    second: Red Hood_103
+  - first:
+      213: -7263118980407355774
+    second: Red Hood_104
+  - first:
+      213: 5408683297610809726
+    second: Red Hood_105
+  - first:
+      213: -7775545981994428282
+    second: Red Hood_106
+  - first:
+      213: -7448948355445444992
+    second: Red Hood_107
+  - first:
+      213: -8587828666680147542
+    second: Red Hood_108
+  - first:
+      213: -2731714164087248705
+    second: Red Hood_109
+  - first:
+      213: -8051003061854885664
+    second: Red Hood_110
+  - first:
+      213: 4625956087867936855
+    second: Red Hood_111
+  - first:
+      213: -2791715335601058614
+    second: Red Hood_112
+  - first:
+      213: 6232634654551714146
+    second: Red Hood_113
+  - first:
+      213: -5219751773578616877
+    second: Red Hood_114
+  - first:
+      213: -4388786794777697171
+    second: Red Hood_115
+  - first:
+      213: -2798364282883095766
+    second: Red Hood_116
+  - first:
+      213: -2962904014867928136
+    second: Red Hood_117
+  - first:
+      213: 2437257651746570963
+    second: Red Hood_118
+  - first:
+      213: -5562404768367003343
+    second: Red Hood_119
+  - first:
+      213: -6327858372365553959
+    second: Red Hood_120
+  - first:
+      213: 7089513881596875368
+    second: Red Hood_121
+  - first:
+      213: -6022580628783398203
+    second: Red Hood_122
+  - first:
+      213: 2690408472339390096
+    second: Red Hood_123
+  - first:
+      213: 3483153028728825505
+    second: Red Hood_124
+  - first:
+      213: 983473833098896759
+    second: Red Hood_125
+  - first:
+      213: 3014900675482035610
+    second: Red Hood_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Hood_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1365
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b436c48d734950800000000000000
+      internalID: 6432122702029699100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1365
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952581ae57b53c4f0800000000000000
+      internalID: -809702945999793575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1368
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da7830c7e3225f0800000000000000
+      internalID: -782994682852954801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1371
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e209f8954a4edc200800000000000000
+      internalID: 202068952829890606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1373
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb534c951c558630800000000000000
+      internalID: 3928647497836354558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1371
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a355a7f24fb0d2c80800000000000000
+      internalID: -8346001391051188934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1366
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabc64aecc017940800000000000000
+      internalID: 5292025118798428878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_7
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1365
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab49bd86c53db7d0800000000000000
+      internalID: -2901103458059203676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1365
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de9c887dc039940800000000000000
+      internalID: 5301595306197642573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_9
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1365
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26723d97d685810800000000000000
+      internalID: 1754272424861852375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_10
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1365
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dee3cd824084d710800000000000000
+      internalID: 1717138381269626576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_11
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1365
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f4d80518a8db7c0800000000000000
+      internalID: -4053931801556725902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1232
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c2bda92053124f0800000000000000
+      internalID: -855344168919421850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1233
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6d8a6fc2900730800000000000000
+      internalID: 3963329091629575276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1235
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225bfb5a525cd5c40800000000000000
+      internalID: 5502771085201880354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1238
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3624ae638daf96150800000000000000
+      internalID: 5866495796167983715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1240
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76e231a36346560800000000000000
+      internalID: 7306024118559598552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1238
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e3f34f891a86010800000000000000
+      internalID: 1182372580489641581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_18
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1234
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c39c054715ba9c0800000000000000
+      internalID: -3914945891055092728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1232
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c955c4c216e988f0800000000000000
+      internalID: -537645712208995900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1232
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09857d889d01f5e10800000000000000
+      internalID: 2188486470415112336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1232
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc65fbb1428d3080800000000000000
+      internalID: -9206058844437517067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_22
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1232
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afc44d20e530790800000000000000
+      internalID: -7565099582807541125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_23
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1232
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdf861ec6526a780800000000000000
+      internalID: -8672202882886861326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1099
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd9729418924de40800000000000000
+      internalID: 5680210665275891157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1099
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a66db552770610800000000000000
+      internalID: 1587363106246796322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1099
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3013e73865cf90800000000000000
+      internalID: -6934021462025029007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1099
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe689765c65f8b50800000000000000
+      internalID: 6597587384967655166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1099
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa637ee1e440f8d0800000000000000
+      internalID: -2814674029947688202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_29
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1099
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209693ec1426cbe00800000000000000
+      internalID: 1061831646924859650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_30
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1099
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3683315e93ecc20800000000000000
+      internalID: 3228581638903981039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_31
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1099
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7584bbb28550e0800000000000000
+      internalID: -2281773893494146239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1099
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd372e8d98576e6b0800000000000000
+      internalID: -5267393479253527589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_33
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1099
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b73a916cde19450800000000000000
+      internalID: 6093913205898443546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_34
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1099
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f46226997eba60800000000000000
+      internalID: 7691718899324481959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_35
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1101
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c081a074ad90e9870800000000000000
+      internalID: 8691395163971000332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 968
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdcf1163e7375820800000000000000
+      internalID: 2906853534217522675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 968
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095b8542369505f90800000000000000
+      internalID: -6966970341195729520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 970
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b886862f34c750dc0800000000000000
+      internalID: -3673393289779189621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 970
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61703eb56ed8a4a0800000000000000
+      internalID: -6581766326838070934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_40
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 970
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e06988c75ebdaaf0800000000000000
+      internalID: -383441109020745504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 970
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65968bfef28f6e850800000000000000
+      internalID: 6406080404750100822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 969
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c134038bdbc020800000000000000
+      internalID: 2363223785243526212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_43
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 968
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19d8b90f1b32c010800000000000000
+      internalID: 1207592654581848348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_44
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 967
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766950df48bb026d0800000000000000
+      internalID: -3017205570483153305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_45
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 966
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06377345d50c86550800000000000000
+      internalID: 6154380397879194464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_46
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 966
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2778873a6feae4e0800000000000000
+      internalID: -1951484249034426582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_47
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 966
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3614e16842b5c43d0800000000000000
+      internalID: -3221099421049667229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 833
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af0a99ad1cfef80800000000000000
+      internalID: -8075022462227514784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 833
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045094f759745b7c0800000000000000
+      internalID: -4056257181966072512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd184547c6bc68e0800000000000000
+      internalID: -1698781992448418345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 833
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e610f68e47b3280800000000000000
+      internalID: -9062521283509391824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_52
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 833
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37efa632ec161f010800000000000000
+      internalID: 1220864511979486835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_53
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 833
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3e8f67840fb660800000000000000
+      internalID: 7403641292159073161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_54
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 833
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed100d15bd8fb9d30800000000000000
+      internalID: 4439415478557868510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 833
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24641668de25c9dd0800000000000000
+      internalID: -2478014514845366718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_56
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 833
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd59d1cdc6ee950800000000000000
+      internalID: 6480236606477687575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_57
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 833
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e40716ae96c69830800000000000000
+      internalID: 4077664897324221666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_58
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 833
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddf26cc839fa760800000000000000
+      internalID: 7471352539660672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_59
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 833
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29a2ca8726c7c50800000000000000
+      internalID: 6664309819025560319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_60
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 700
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6dd731616324bc0800000000000000
+      internalID: -3800415667103082804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 700
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fee2fc9c0665c50800000000000000
+      internalID: 6653611919367139083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_62
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 700
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee4bddafa871f580800000000000000
+      internalID: -8795115901346427168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 700
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad41db6f7918d700800000000000000
+      internalID: 565229788295417261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_64
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 700
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc6610b700f2ed70800000000000000
+      internalID: 9071076515287297208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_65
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 700
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ee3b60643c6d90800000000000000
+      internalID: -7103244923549327344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_66
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 700
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb45b9e976b4d4d0800000000000000
+      internalID: -3110660807877899295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_67
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 700
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1cb79df86fd9310800000000000000
+      internalID: 1413556955753726438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_68
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 700
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97ffdc15c382ea60800000000000000
+      internalID: 7701863195373205407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_69
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 700
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5698943f08561ee20800000000000000
+      internalID: 3378092800016484709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_70
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 700
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79774d159053c7a80800000000000000
+      internalID: -8467834885219518569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_71
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 700
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c402b9dedfaae3c70800000000000000
+      internalID: 8952781116848939084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 567
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fddf5cd08c2afd60800000000000000
+      internalID: 7924695426276515312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_73
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 567
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379655a39235525e0800000000000000
+      internalID: -1935049028348319373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_74
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 567
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1b4273e90de3710800000000000000
+      internalID: 1675005489376965091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_75
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 567
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfb8fc602278bf0800000000000000
+      internalID: -322251435686495454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_76
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 567
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c695f3f8f25fa7370800000000000000
+      internalID: 8321232846135974252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_77
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 567
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4037061266a8e0c0800000000000000
+      internalID: -4546200883623940022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_78
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 567
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1f7b64a9293db40800000000000000
+      internalID: 5463871964239622647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_79
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 567
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986cf277d2533ee0800000000000000
+      internalID: -1282590383569868656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_80
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 567
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bcdffe318fe7f50800000000000000
+      internalID: 6881210045183150967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_81
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 567
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc0e2f0df8d3510800000000000000
+      internalID: 1530537575966625089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_82
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 567
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225223981910cc800800000000000000
+      internalID: 633883372136047906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_83
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 567
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2013e3666de7300800000000000000
+      internalID: 251874363797734134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 434
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ae6cb6b79557540800000000000000
+      internalID: 5005004947516222070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_85
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 434
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238598dbecdf39fc0800000000000000
+      internalID: -3489166221897017294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 434
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851e217c1fedf3cd0800000000000000
+      internalID: -2576095331824246440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 434
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b4268ef688bcc0800000000000000
+      internalID: -3695055066527124710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_88
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 434
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c310fdd39d70030800000000000000
+      internalID: 3460973698415148045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_89
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 434
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b113e42c366ea0800000000000000
+      internalID: -5879946134359525685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_90
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 434
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d5a6e07ece0c40800000000000000
+      internalID: 5480544780857758051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_91
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 434
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133abc2e69fb27d00800000000000000
+      internalID: 969047524609073969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_92
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 434
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c2a220fe25f7e0800000000000000
+      internalID: -1732426872745965089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_93
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 434
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658b929950c2bc1f0800000000000000
+      internalID: -1023676087740549034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_94
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 434
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e02a3abd6f5070800000000000000
+      internalID: 8097311301642020346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 434
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae3b8e6034efcf70800000000000000
+      internalID: 9209830659660136097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_96
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 301
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20919585173d2da0800000000000000
+      internalID: -5968053365621288917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 301
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7de81009582d5b0800000000000000
+      internalID: -5345062954187433985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_98
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 301
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08b7da94c0359c00800000000000000
+      internalID: 906684520954574861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_99
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 301
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771c9147212b93910800000000000000
+      internalID: 1817679716947706231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_100
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 301
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49d8041d83a8fe0800000000000000
+      internalID: -1186073080476363553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_101
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 301
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3a3705c7c3f7ad0800000000000000
+      internalID: -2702374746775641152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_102
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 301
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ee5ac165927080800000000000000
+      internalID: -9191119642270178002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_103
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 301
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5442e747a0bc2ec60800000000000000
+      internalID: 7846056746597360709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_104
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 301
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2861c6bd4c7343b90800000000000000
+      internalID: -7263118980407355774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_105
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 301
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e714ea08dc08f0b40800000000000000
+      internalID: 5408683297610809726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_106
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 301
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68891804026b71490800000000000000
+      internalID: -7775545981994428282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_107
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 301
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ea17bdfe400a890800000000000000
+      internalID: -7448948355445444992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_108
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 168
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa10d92f357e1d880800000000000000
+      internalID: -8587828666680147542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_109
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82da5e070071ad0800000000000000
+      internalID: -2731714164087248705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_110
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 168
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ae8c0f57154090800000000000000
+      internalID: -8051003061854885664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_111
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 168
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7509ce37d82b23040800000000000000
+      internalID: 4625956087867936855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_112
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 168
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc0d7381b5d149d0800000000000000
+      internalID: -2791715335601058614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_113
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 168
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26928574234ce7650800000000000000
+      internalID: 6232634654551714146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_114
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 168
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df9128da67bf87b0800000000000000
+      internalID: -5219751773578616877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_115
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 168
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64a956b9a5e713c0800000000000000
+      internalID: -4388786794777697171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_116
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 168
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23cc96d2863a29d0800000000000000
+      internalID: -2798364282883095766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_117
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 168
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbe7322f76a1e6d0800000000000000
+      internalID: -2962904014867928136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_118
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 168
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2057ecbe0e2d120800000000000000
+      internalID: 2437257651746570963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_119
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 168
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139bb84855e5ec2b0800000000000000
+      internalID: -5562404768367003343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de6b26365eee28a0800000000000000
+      internalID: -6327858372365553959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_121
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86258ce3053036260800000000000000
+      internalID: 7089513881596875368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_122
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2873eb3de7b6ca0800000000000000
+      internalID: -6022580628783398203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_123
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 35
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e9d7e4040465520800000000000000
+      internalID: 2690408472339390096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_124
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 35
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a625bf9935a65030800000000000000
+      internalID: 3483153028728825505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_125
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 35
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77560c39d3006ad00800000000000000
+      internalID: 983473833098896759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Hood_126
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 35
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a952133d03417d920800000000000000
+      internalID: 3014900675482035610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Hood_0: 6432122702029699100
+      Red Hood_1: -809702945999793575
+      Red Hood_10: 1717138381269626576
+      Red Hood_100: -1186073080476363553
+      Red Hood_101: -2702374746775641152
+      Red Hood_102: -9191119642270178002
+      Red Hood_103: 7846056746597360709
+      Red Hood_104: -7263118980407355774
+      Red Hood_105: 5408683297610809726
+      Red Hood_106: -7775545981994428282
+      Red Hood_107: -7448948355445444992
+      Red Hood_108: -8587828666680147542
+      Red Hood_109: -2731714164087248705
+      Red Hood_11: -4053931801556725902
+      Red Hood_110: -8051003061854885664
+      Red Hood_111: 4625956087867936855
+      Red Hood_112: -2791715335601058614
+      Red Hood_113: 6232634654551714146
+      Red Hood_114: -5219751773578616877
+      Red Hood_115: -4388786794777697171
+      Red Hood_116: -2798364282883095766
+      Red Hood_117: -2962904014867928136
+      Red Hood_118: 2437257651746570963
+      Red Hood_119: -5562404768367003343
+      Red Hood_12: -855344168919421850
+      Red Hood_120: -6327858372365553959
+      Red Hood_121: 7089513881596875368
+      Red Hood_122: -6022580628783398203
+      Red Hood_123: 2690408472339390096
+      Red Hood_124: 3483153028728825505
+      Red Hood_125: 983473833098896759
+      Red Hood_126: 3014900675482035610
+      Red Hood_13: 3963329091629575276
+      Red Hood_14: 5502771085201880354
+      Red Hood_15: 5866495796167983715
+      Red Hood_16: 7306024118559598552
+      Red Hood_17: 1182372580489641581
+      Red Hood_18: -3914945891055092728
+      Red Hood_19: -537645712208995900
+      Red Hood_2: -782994682852954801
+      Red Hood_20: 2188486470415112336
+      Red Hood_21: -9206058844437517067
+      Red Hood_22: -7565099582807541125
+      Red Hood_23: -8672202882886861326
+      Red Hood_24: 5680210665275891157
+      Red Hood_25: 1587363106246796322
+      Red Hood_26: -6934021462025029007
+      Red Hood_27: 6597587384967655166
+      Red Hood_28: -2814674029947688202
+      Red Hood_29: 1061831646924859650
+      Red Hood_3: 202068952829890606
+      Red Hood_30: 3228581638903981039
+      Red Hood_31: -2281773893494146239
+      Red Hood_32: -5267393479253527589
+      Red Hood_33: 6093913205898443546
+      Red Hood_34: 7691718899324481959
+      Red Hood_35: 8691395163971000332
+      Red Hood_36: 2906853534217522675
+      Red Hood_37: -6966970341195729520
+      Red Hood_38: -3673393289779189621
+      Red Hood_39: -6581766326838070934
+      Red Hood_4: 3928647497836354558
+      Red Hood_40: -383441109020745504
+      Red Hood_41: 6406080404750100822
+      Red Hood_42: 2363223785243526212
+      Red Hood_43: 1207592654581848348
+      Red Hood_44: -3017205570483153305
+      Red Hood_45: 6154380397879194464
+      Red Hood_46: -1951484249034426582
+      Red Hood_47: -3221099421049667229
+      Red Hood_48: -8075022462227514784
+      Red Hood_49: -4056257181966072512
+      Red Hood_5: -8346001391051188934
+      Red Hood_50: -1698781992448418345
+      Red Hood_51: -9062521283509391824
+      Red Hood_52: 1220864511979486835
+      Red Hood_53: 7403641292159073161
+      Red Hood_54: 4439415478557868510
+      Red Hood_55: -2478014514845366718
+      Red Hood_56: 6480236606477687575
+      Red Hood_57: 4077664897324221666
+      Red Hood_58: 7471352539660672349
+      Red Hood_59: 6664309819025560319
+      Red Hood_6: 5292025118798428878
+      Red Hood_60: -3800415667103082804
+      Red Hood_61: 6653611919367139083
+      Red Hood_62: -8795115901346427168
+      Red Hood_63: 565229788295417261
+      Red Hood_64: 9071076515287297208
+      Red Hood_65: -7103244923549327344
+      Red Hood_66: -3110660807877899295
+      Red Hood_67: 1413556955753726438
+      Red Hood_68: 7701863195373205407
+      Red Hood_69: 3378092800016484709
+      Red Hood_7: -2901103458059203676
+      Red Hood_70: -8467834885219518569
+      Red Hood_71: 8952781116848939084
+      Red Hood_72: 7924695426276515312
+      Red Hood_73: -1935049028348319373
+      Red Hood_74: 1675005489376965091
+      Red Hood_75: -322251435686495454
+      Red Hood_76: 8321232846135974252
+      Red Hood_77: -4546200883623940022
+      Red Hood_78: 5463871964239622647
+      Red Hood_79: -1282590383569868656
+      Red Hood_8: 5301595306197642573
+      Red Hood_80: 6881210045183150967
+      Red Hood_81: 1530537575966625089
+      Red Hood_82: 633883372136047906
+      Red Hood_83: 251874363797734134
+      Red Hood_84: 5005004947516222070
+      Red Hood_85: -3489166221897017294
+      Red Hood_86: -2576095331824246440
+      Red Hood_87: -3695055066527124710
+      Red Hood_88: 3460973698415148045
+      Red Hood_89: -5879946134359525685
+      Red Hood_9: 1754272424861852375
+      Red Hood_90: 5480544780857758051
+      Red Hood_91: 969047524609073969
+      Red Hood_92: -1732426872745965089
+      Red Hood_93: -1023676087740549034
+      Red Hood_94: 8097311301642020346
+      Red Hood_95: 9209830659660136097
+      Red Hood_96: -5968053365621288917
+      Red Hood_97: -5345062954187433985
+      Red Hood_98: 906684520954574861
+      Red Hood_99: 1817679716947706231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
