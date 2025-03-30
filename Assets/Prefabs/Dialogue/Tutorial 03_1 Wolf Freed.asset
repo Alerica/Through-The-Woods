@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bb509d7324df9449626fb7b49caee0, type: 3}
+  m_Name: Tutorial 03_1 Wolf Freed
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Wolf
+    dialogueText: Woof... Woof
+    characterPortrait: {fileID: 1778186805842919750, guid: 58129f662d1048d4eb2af4a326035fff, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: ???
+    dialogueText: You can now switch to wolf by pressing Tab
+    characterPortrait: {fileID: 605162050437240712, guid: b7094d292da9dac4f9a3d626d5df3e76, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: ???
+    dialogueText: You can also press F to summon your wolf
+    characterPortrait: {fileID: 605162050437240712, guid: b7094d292da9dac4f9a3d626d5df3e76, type: 3}
+    hasChoices: 0
+    choices: []

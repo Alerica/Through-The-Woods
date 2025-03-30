@@ -12,6 +12,7 @@ public class DialogueTrigger : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D collision)
     {
+        if(collision.CompareTag("Red Hood"))
         StartDialogue();
     }
 }

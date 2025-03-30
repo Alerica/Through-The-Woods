@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5bb509d7324df9449626fb7b49caee0, type: 3}
+  m_Name: Tutorial 03_0 Wolf Introduction
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Wolf
+    dialogueText: Woof...
+    characterPortrait: {fileID: 1778186805842919750, guid: 58129f662d1048d4eb2af4a326035fff, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: Red Hood
+    dialogueText: The wolf seems to be caged
+    characterPortrait: {fileID: -5337446596050919318, guid: d6e372d4015e2c644b2702697224eb46, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: Red Hood
+    dialogueText: I think I can open the cage
+    characterPortrait: {fileID: -5337446596050919318, guid: d6e372d4015e2c644b2702697224eb46, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: Wolf
+    dialogueText: Woof.. Woof...
+    characterPortrait: {fileID: 1778186805842919750, guid: 58129f662d1048d4eb2af4a326035fff, type: 3}
+    hasChoices: 0
+    choices: []
+  - speakerName: ???
+    dialogueText: You can Interact using E
+    characterPortrait: {fileID: 605162050437240712, guid: b7094d292da9dac4f9a3d626d5df3e76, type: 3}
+    hasChoices: 0
+    choices: []

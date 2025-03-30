@@ -33,12 +33,17 @@ public class WolfController : MonoBehaviour
         
     }
 
+    public void Die()
+    {
+        
+    }
+
     private void FixedUpdate()
     {
         // Movement Logic
         float movementSpeed = baseMovementSpeed;
         if(IsSprinting) movementSpeed *= sprintMultiplier;
-        rb2d.linearVelocity = new(movementInput.x * movementSpeed, 0);
+        rb2d.linearVelocity = new(movementInput.x * movementSpeed, rb2d.linearVelocity.y);
 
 
         CheckDirection();
@@ -58,6 +63,8 @@ public class WolfController : MonoBehaviour
 
         IsMoving =  movementInput != Vector2.zero;
     }
+
+    
 
     public void OnSprint(InputAction.CallbackContext context)
     {

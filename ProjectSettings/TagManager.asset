@@ -49,5 +49,8 @@ TagManager:
   - name: Player
     uniqueID: 813021651
     locked: 0
+  - name: Front Decor
+    uniqueID: 3681495571
+    locked: 0
   m_RenderingLayers:
   - Default

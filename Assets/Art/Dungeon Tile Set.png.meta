@@ -135,7 +135,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1728,13 +1728,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_69
+      name: Pressure Plate
       rect:
         serializedVersion: 2
         x: 16
-        y: 128
-        width: 16
-        height: 16
+        y: 138
+        width: 48
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1745,50 +1745,6 @@ TextureImporter:
       bones: []
       spriteID: b25fe151a30a22349ab3f47ba5011d75
       internalID: -1394463230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon Tile Set_70
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bd95ebe39e2ba145ab4fae4087d7c0b
-      internalID: -1352581539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon Tile Set_71
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2219cbad2e181644dbb2ac84859bf6c2
-      internalID: 144224729
       vertices: []
       indices: 
       edges: []
@@ -1904,7 +1860,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_77
+      name: Key
       rect:
         serializedVersion: 2
         x: 176
@@ -1926,7 +1882,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_78
+      name: Chest
       rect:
         serializedVersion: 2
         x: 192
@@ -1948,7 +1904,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_79
+      name: Chest Open
       rect:
         serializedVersion: 2
         x: 208
@@ -2124,13 +2080,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_87
+      name: Door Close
       rect:
         serializedVersion: 2
         x: 192
-        y: 112
-        width: 16
-        height: 16
+        y: 96
+        width: 7
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2146,13 +2102,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_88
+      name: Door Open
       rect:
         serializedVersion: 2
         x: 208
-        y: 112
+        y: 96
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2322,50 +2278,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_96
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06f32b1f682fe1d49a2c0ec53e134039
-      internalID: -1048163400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dungeon Tile Set_97
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b2bfe25a82f5b1e42a24e76f87efc8a1
-      internalID: 1791798621
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Dungeon Tile Set_98
       rect:
         serializedVersion: 2
@@ -2506,7 +2418,7 @@ TextureImporter:
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2674,7 +2586,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_117
+      name: Spike_0
       rect:
         serializedVersion: 2
         x: 16
@@ -2696,7 +2608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_118
+      name: Spike_1
       rect:
         serializedVersion: 2
         x: 32
@@ -2718,7 +2630,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_119
+      name: Spike_2
       rect:
         serializedVersion: 2
         x: 48
@@ -2740,7 +2652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_120
+      name: Spike_3
       rect:
         serializedVersion: 2
         x: 64
@@ -2762,7 +2674,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_121
+      name: Spike_4
       rect:
         serializedVersion: 2
         x: 80
@@ -2784,7 +2696,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dungeon Tile Set_122
+      name: Spike_5
       rect:
         serializedVersion: 2
         x: 96
@@ -3040,6 +2952,10 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Cage: -206205201
+      Chest: 226021977
+      Chest Open: -130385837
+      Door Close: -97539460
+      Door Open: -357172846
       Dungeon Tile Set_0: 1281440011619190713
       Dungeon Tile Set_1: -9137202733848781849
       Dungeon Tile Set_10: 5325169273575712911
@@ -3060,13 +2976,7 @@ TextureImporter:
       Dungeon Tile Set_114: -490240088
       Dungeon Tile Set_115: -1890555950
       Dungeon Tile Set_116: -1796617265
-      Dungeon Tile Set_117: -1723666280
-      Dungeon Tile Set_118: 1676044370
-      Dungeon Tile Set_119: 1404014478
       Dungeon Tile Set_12: 6882303124984309148
-      Dungeon Tile Set_120: -779660299
-      Dungeon Tile Set_121: 133265003
-      Dungeon Tile Set_122: -79747156
       Dungeon Tile Set_123: 1971068380
       Dungeon Tile Set_124: 2129846823
       Dungeon Tile Set_125: -724182002
@@ -3138,7 +3048,6 @@ TextureImporter:
       Dungeon Tile Set_66: -1779594264
       Dungeon Tile Set_67: 1393873706
       Dungeon Tile Set_68: -121639278
-      Dungeon Tile Set_69: -1394463230
       Dungeon Tile Set_7: -2415522183862246450
       Dungeon Tile Set_70: -1352581539
       Dungeon Tile Set_71: 144224729
@@ -3147,9 +3056,6 @@ TextureImporter:
       Dungeon Tile Set_74: -627424314
       Dungeon Tile Set_75: -853035956
       Dungeon Tile Set_76: 608615329
-      Dungeon Tile Set_77: -1260318415
-      Dungeon Tile Set_78: 226021977
-      Dungeon Tile Set_79: -130385837
       Dungeon Tile Set_8: 3589604346796488548
       Dungeon Tile Set_80: 1202819324
       Dungeon Tile Set_81: -611447947
@@ -3158,8 +3064,6 @@ TextureImporter:
       Dungeon Tile Set_84: -1566304442
       Dungeon Tile Set_85: 414315693
       Dungeon Tile Set_86: -298704896
-      Dungeon Tile Set_87: -97539460
-      Dungeon Tile Set_88: -357172846
       Dungeon Tile Set_89: 440735601
       Dungeon Tile Set_9: 8402069431753979681
       Dungeon Tile Set_90: -1218818440
@@ -3172,6 +3076,14 @@ TextureImporter:
       Dungeon Tile Set_97: 1791798621
       Dungeon Tile Set_98: 930561940
       Dungeon Tile Set_99: 29967448
+      Key: -1260318415
+      Pressure Plate: -1394463230
+      Spike_0: -1723666280
+      Spike_1: 1676044370
+      Spike_2: 1404014478
+      Spike_3: -779660299
+      Spike_4: 133265003
+      Spike_5: -79747156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
