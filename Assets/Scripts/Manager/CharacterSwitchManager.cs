@@ -11,6 +11,8 @@ public class CharacterSwitchManager : MonoBehaviour
     private PlayerInput redHoodInput;
     private PlayerInput wolfInput;
 
+    [SerializeField] private bool _isWolfActive = false;
+
     private void Start()
     {
         redHoodInput = redHood.GetComponent<PlayerInput>();
@@ -21,7 +23,7 @@ public class CharacterSwitchManager : MonoBehaviour
 
     private void Update()
     {
-        if (Keyboard.current.tabKey.wasPressedThisFrame) 
+        if (Keyboard.current.tabKey.wasPressedThisFrame && _isWolfActive) 
         {
             SwitchCharacter();
         }
@@ -45,5 +47,10 @@ public class CharacterSwitchManager : MonoBehaviour
         wolfInput.enabled = (character == wolf);
 
         cinemachineCam.Follow = character.transform;
+    }
+
+    private void ActivateWolf()
+    {
+        _isWolfActive = true;
     }
 }

@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -5,8 +6,12 @@ using UnityEngine.InputSystem;
 public class PlayerController : MonoBehaviour
 {
     [Header("References")]
+    [SerializeField ] private PlayerAnimator playerAnimator;
     private Rigidbody2D rb2d;
     private TouchingDirections touchingDirections;
+   
+
+    private Vector2 checkPoint;
 
     [Header("Attributes")]
     [SerializeField] private float baseMovementSpeed = 2f;
@@ -17,6 +22,7 @@ public class PlayerController : MonoBehaviour
     public bool IsMoving { get; set;}
     public bool IsSprinting { get; set;}
     public bool IsFacingRight { get; set; }
+    public bool IsAlive { get; set; }
 
     Vector2 movementInput;
 
@@ -30,6 +36,8 @@ public class PlayerController : MonoBehaviour
     {
         // I`m Setting Default to Facing Right
         IsFacingRight = true;   
+        IsAlive = true;
+        checkPoint = transform.position;
     }
 
     private void Update()
@@ -40,11 +48,13 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         // Movement Logic
-        float movementSpeed = baseMovementSpeed;
-        if(IsSprinting) movementSpeed *= sprintMultiplier;
-        rb2d.linearVelocity = new(movementInput.x * movementSpeed, rb2d.linearVelocity.y);
-
-
+        if(IsAlive) 
+        {
+            float movementSpeed = baseMovementSpeed;
+            if(IsSprinting) movementSpeed *= sprintMultiplier;
+            rb2d.linearVelocity = new(movementInput.x * movementSpeed, rb2d.linearVelocity.y);
+        }
+        
         CheckDirection();
     }
 
@@ -54,6 +64,33 @@ public class PlayerController : MonoBehaviour
         else if (!IsFacingRight && movementInput.x > 0) IsFacingRight = !IsFacingRight;    
         // Debug.Log(IsFacingRight);
     }
+
+    public void Die() 
+    {
+        StartCoroutine (Respawn());
+    }
+
+    private IEnumerator Respawn()
+    {
+        IsAlive = false;
+        playerAnimator.OnDie();
+        rb2d.linearVelocity = Vector2.zero;
+        yield return new WaitForSeconds(1.5f);
+        transform.position = checkPoint;
+        IsAlive = true;
+    }
+
+    public void UpdateCheckPoint(Vector2 newPosition)
+    {   
+        checkPoint = newPosition;
+        Debug.Log($"CheckPoint updated {checkPoint}");
+    }
+
+    public void DisableMovement()
+    {
+        rb2d.linearVelocity = new Vector2(0, rb2d.linearVelocity.y);
+    }
+
     
     public void OnMove(InputAction.CallbackContext context)
     {

@@ -10,7 +10,6 @@ public class WolfController : MonoBehaviour
     [SerializeField] private float baseMovementSpeed = 2f;
     [SerializeField] private float sprintMultiplier = 1.5f;
 
-
     public bool IsMoving { get; set;}
     public bool IsSprinting { get; set;}
     public bool IsFacingLeft { get; set; }
@@ -64,4 +63,5 @@ public class WolfController : MonoBehaviour
     {
         IsSprinting = context.ReadValueAsButton();
     }
+
 }

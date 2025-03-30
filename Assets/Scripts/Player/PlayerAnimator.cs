@@ -18,4 +18,9 @@ public class PlayerAnimator : MonoBehaviour
         spriteRenderer.flipX = !playerController.IsFacingRight;
         animator.SetBool(StringManager.isMoving, playerController.IsMoving);
     }
+
+    public void OnDie()
+    {
+        animator.SetTrigger(StringManager.isDie);
+    }
 }
