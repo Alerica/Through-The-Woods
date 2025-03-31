@@ -2,6 +2,8 @@
 A puzzle-based platformer with exploration elements, inspired by Red Riding Hood. Featuring a unique mechanic where players can control both Red Hood and the Wolf to solve puzzles and navigate the environment.
 
 ## Gameplay 
+<img src="https://github.com/Alerica/Through-The-Woods/blob/main/Through%20The%20Woods%20Clip.gif" alt="1" style="width:100%;height:auto;">
+
 ## Features
 - **Character Switching**: Swap between Red Hood and the Wolf.
 - **Dialogue System**: Learning and implementing a robust dialogue system.
